@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CombineExt",
+        "repositoryURL": "https://github.com/CombineCommunity/CombineExt.git",
+        "state": {
+          "branch": null,
+          "revision": "6664678135c6aec049c887a51c9da2545f184882",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "TinyConstraints",
+        "repositoryURL": "https://github.com/roberthein/TinyConstraints.git",
+        "state": {
+          "branch": null,
+          "revision": "f413ea53b886de81b925eeb37a14538fe6ae4912",
+          "version": "4.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
